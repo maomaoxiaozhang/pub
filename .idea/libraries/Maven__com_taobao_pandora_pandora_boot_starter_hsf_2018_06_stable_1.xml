@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.taobao.pandora:pandora-boot-starter-hsf:2018-06-stable-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-starter-hsf/2018-06-stable-1/pandora-boot-starter-hsf-2018-06-stable-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-starter-hsf/2018-06-stable-1/pandora-boot-starter-hsf-2018-06-stable-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-starter-hsf/2018-06-stable-1/pandora-boot-starter-hsf-2018-06-stable-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
